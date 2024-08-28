@@ -5,7 +5,7 @@
  </a>
 </div>
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Argentina</h3>
+<h3 align="left">&nbsp; A passionate FullStack developer from Argentina</h3>
 
 - 🔭 I’m currently working on **React**
 
