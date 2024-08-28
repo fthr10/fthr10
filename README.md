@@ -44,6 +44,3 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=fatihrengis&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-   <summary>:zap: Languages and Tools</summary>
- -->
